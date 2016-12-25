@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+#.idea/misc.xml
+#.idea/modules.xml
+#.idea/nodetest.iml
+#.idea/workspace.xml
+package.json
+#.idea/jsLibraryMappings.xml
+#.idea/jsLibraryMappings.xml
+.idea/jsLibraryMappings.xml
